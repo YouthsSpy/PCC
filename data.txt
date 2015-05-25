@@ -15,4 +15,4 @@ sifuser7=0
 sifuser8=0
 sifuser9=0
 
-home-eli=0
+home-eli=1
