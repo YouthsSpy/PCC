@@ -1,10 +1,7 @@
 
-ספריה-ראשי=0
-ספרנית2=0
-
-administrator=0
-משתמש=0
-
+sifriya1=0
+sifriya2=0
+sifriya-class=0
 sifuser1=0
 sifuser2=0
 sifuser3=0
@@ -14,5 +11,3 @@ sifuser6=0
 sifuser7=0
 sifuser8=0
 sifuser9=0
-
-home-eli=0
