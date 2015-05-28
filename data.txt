@@ -11,4 +11,5 @@ sifuser6=0
 sifuser7=0
 sifuser8=0
 sifuser9=0
-multipointsif=0
+multipointsif=1
+administrator=1
