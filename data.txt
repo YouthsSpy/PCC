@@ -1,7 +1,7 @@
 
 sifriya1=0
 sifriya2=0
-sifriya-class=0
+sifriya-class=1
 sifuser1=0
 sifuser2=0
 sifuser3=0
