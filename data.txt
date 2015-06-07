@@ -3,6 +3,8 @@ sifriya1>ספריה-ראשי
 =0
 sifriya-class>משתמש
 =0
+sifri2>ספרנית
+=1
 sifriya-class>administrator=0
 multipointsif>sifuser1=0
 multipointsif>sifuser2=0
