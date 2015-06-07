@@ -11,7 +11,7 @@ multipointsif>sifuser4=0
 multipointsif>sifuser5=0
 multipointsif>sifuser6=0
 multipointsif>sifuser7=0
-multipointsif>sifuser8=0
+multipointsif>sifuser8=1
 multipointsif>sifuser9=0
 
 home-eli>eli=0
