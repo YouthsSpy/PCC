@@ -3,7 +3,7 @@ sifriya1>ספריה-ראשי
 =0
 sifriya-class>משתמש
 =0
-sifriya-class>administrator=1
+sifriya-class>administrator=0
 multipointsif>sifuser1=0
 multipointsif>sifuser2=0
 multipointsif>sifuser3=0
