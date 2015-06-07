@@ -7,7 +7,7 @@ sifriya-class>
 =0
 sifri2>
 ספרנית
-=0
+=1
 sifriya-class>administrator=1
 multipointsif>sifuser1=0
 multipointsif>sifuser2=0
