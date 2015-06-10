@@ -19,4 +19,7 @@ multipointsif>sifuser7=0
 multipointsif>sifuser8=0
 multipointsif>sifuser9=0
 
-home-eli>eli=0
+teacher1>owner=0
+teacher2>owner=0
+teacher3>owner=0
+teacher4>owner=0
