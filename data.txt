@@ -8,7 +8,7 @@ sifriya-class>
 sifri2>
 ספרנית
 =0
-sifriya-class>administrator=2
+sifriya-class>administrator=0
 multipointsif>sifuser1=0
 multipointsif>sifuser2=0
 multipointsif>sifuser3=0
