@@ -1,16 +1,16 @@
 
 sifriya1>
 ספריה-ראשי
-=1
+=0
 sifriya-class>
 משתמש
 =0
 sifri2>
 ספרנית
 =0
-sifriya-class>administrator=1
+sifriya-class>administrator=0
 multipointsif>sifuser1=0
-multipointsif>sifuser2=0
+multipointsif>sifuser2=1
 multipointsif>sifuser3=0
 multipointsif>sifuser4=0
 multipointsif>sifuser5=0
